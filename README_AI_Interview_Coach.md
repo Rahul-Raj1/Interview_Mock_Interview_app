@@ -255,12 +255,3 @@ your browser.
 -   Do not upload or publish interview recordings or personal answers
     without the candidate's explicit permission.
 
-## Author
-
-**Rahul Raj**\
-AI/ML Intern --- Apana Time Tech Solutions
-
-------------------------------------------------------------------------
-
-*AI Interview Coach is an interview-practice prototype intended for
-learning and preparation.*
