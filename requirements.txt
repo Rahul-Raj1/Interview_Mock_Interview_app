@@ -1,0 +1,11 @@
+Install these Libraries
+streamlit>=1.42
+pandas
+anthropic
+SpeechRecognition>=3.10.4
+gTTS
+deep-translator
+
+
+
+
